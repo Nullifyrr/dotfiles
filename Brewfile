@@ -12,6 +12,7 @@ brew "cmatrix"
 brew "git"
 brew "spicetify-cli"
 brew "bash"
+brew "neovim"
 
 # GUI
 cask "visual-studio-code"
