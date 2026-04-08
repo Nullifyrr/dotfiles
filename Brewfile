@@ -13,6 +13,7 @@ brew "cmatrix"
 brew "git"
 brew "spicetify-cli"
 brew "neovim"
+brew "docker"
 
 # GUI
 cask "visual-studio-code"
@@ -27,3 +28,4 @@ cask "spotify"
 cask "steam"
 cask "boring-notch"
 cask "aldente"
+cask "amphetamine"
