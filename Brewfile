@@ -3,6 +3,7 @@ tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/services"
 tap "spicetify/tap"
+tap "TheBoredTeam/boring-notch"
 
 # CLI
 brew "fastfetch"
@@ -11,7 +12,6 @@ brew "btop"
 brew "cmatrix"
 brew "git"
 brew "spicetify-cli"
-brew "bash"
 brew "neovim"
 
 # GUI
@@ -24,3 +24,6 @@ cask "waterfox"
 cask "rekordbox"
 cask "ghostty"
 cask "spotify"
+cask "steam"
+cask "boring-notch"
+cask "aldente"
