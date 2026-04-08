@@ -20,7 +20,7 @@ brew "7zip"
 # Apps
 cask "visual-studio-code"
 cask "vesktop"
-cask "vlc"
+cask "iina"
 cask "bambu-studio"
 cask "waterfox"
 cask "rekordbox"
