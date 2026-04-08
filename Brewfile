@@ -3,6 +3,7 @@ tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/services"
 tap "spicetify/tap"
+tap "iamchokerman/ani-cli"
 tap "TheBoredTeam/boring-notch"
 
 # CLI
