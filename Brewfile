@@ -14,6 +14,7 @@ brew "ani-cli"
 brew "git"
 brew "spicetify-cli"
 brew "neovim"
+brew "docker"
 brew "7zip"
 
 # Apps
