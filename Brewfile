@@ -42,6 +42,7 @@ cask "alfred"
 cask "obsidian"
 cask "localsend"
 cask "bartender"
+cask "bitwarden"
 
 # Gaming
 cask "prismlauncher"
