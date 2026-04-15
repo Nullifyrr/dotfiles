@@ -44,7 +44,7 @@ cask "ice"      # Menu Bar Management
 cask "boring-notch"   # Notch Utility
 cask "obsidian"       # Knowledge Base
 cask "localsend"      # File Sharing
-cask "zen"       # Privacy Browser
+cask "brave-browser"       # Privacy Browser
 cask "transmission"   # Torrent Client
 cask "rectangle"
 
